@@ -6,6 +6,6 @@ How to run:
 
 1 - Install the dependencies with the command "pip install -r requirements.txt"
 
-2 - Change the file "api_keys", puting your secret keys from https://developer.twitter.com/
+2 - Change the file "api_keys", putting your secret keys from https://developer.twitter.com/
 
 3 - run the file "tweets.py" with the command "python3 tweets.py"
